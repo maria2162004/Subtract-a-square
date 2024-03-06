@@ -1,5 +1,5 @@
 
-# Purpose: This game purpose it that each player removes a pile of non-zero square coins and the winner
+# Purpose:this is a 2 game player it's purpose it that each player removes a pile of non-zero square coins and the winner
 # is the player who removes tha last coin
 # Author: Maria Atef Edward Marid
 
